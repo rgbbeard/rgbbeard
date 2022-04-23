@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @rgbbeard (Davide)
-- 👀 I’m interested in programming, tech, and nerdy things
-- 🌱 I’m currently learning web development and software development
-- 📫 For collabs or job offers: rgb.codelab@gmail.com
+
